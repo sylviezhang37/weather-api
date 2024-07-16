@@ -10,11 +10,9 @@ This Python program allows you to check weather information via the command line
   
 2. Get your personal API from [OpenWeatherMap](https://openweathermap.org/api). You'll need it for
   ```python
-    // in api.py, replace "config.API_KEY" with your API key
+    // in api.py, replace "{config.API_KEY}" with your API key
     // or create a config.py to store it securely.
     url = f'https://api.openweathermap.org/data/2.5/weather?zip={zipcode},{country}&appid={config.API_KEY}&mode=xml'
-
-    // rest of the program
   ```
   
 3. Run the program in the CLI
