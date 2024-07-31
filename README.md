@@ -1,5 +1,5 @@
 # Weather API Python Program
-This Python program allows you to check weather information via the command line interface (CLI) using the OpenWeatherMap API.
+This Python program allows you to check location-based weather information via the command line interface (CLI) using the OpenWeatherMap API.
 
 ### Installation
 1. Clone the repository:
